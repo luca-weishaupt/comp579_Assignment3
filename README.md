@@ -1,1 +1,3 @@
-# comp598_Assignment3
+# COMP579 Assignment3
+
+![Alt Text](uniform.gif)
